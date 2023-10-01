@@ -7,10 +7,10 @@ description = "Welcome to my projects page, where I proudly present some of the 
 disqus_identifier = '10'
 +++
 
-**Hypertext Mockup Language**
+**Designing a Website - Hypertext Mockup Language**
 
 
-The Rock Band Online Shop project was undertaken to help a popular rock band create a web presence for selling their music and branded merchandise. As a web developer, i was tasked with translating the band's design vision into functional web pages using HTML and CSS.
+The Rock Band Online Shop project was undertaken to help a popular rock band create a web presence for selling their music and branded merchandise. As a web developer, I was tasked with translating the band's design vision into functional web pages using HTML and CSS.
 
 
 **Crickey - The Ultimate Cricket Discord Bot**

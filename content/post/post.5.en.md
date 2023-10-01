@@ -9,20 +9,19 @@ disableComments = true
 
 **SETTING UP HUGO**
 
-First things first, I needed to set up Hugo on my local machine.I installed hugo into my system, and I followed the official Hugo installation guide to ensure I had the latest version installed.
+First things first, I needed to set up Hugo on my local machine. I installed Hugo into my system, and I followed the official Hugo installation guide to ensure I had the latest version installed.
 
+Hugo offers a variety of website themes. After browsing a lot, I found out a perfect theme that matched my minimalist style. Unfortunately, I messed up so much that I got frustrated and deleted all the work I had done 😆.
 
-Hugo offers a variety of website themes. After browsing a lot i found out a perfect theme that matched my minimalist style. Unfortunately, I messed up so much that I got frustrated and deleted all the work i had done 😆.
+A few days later, I made a new site with a new theme after watching a really long video which detailed how to make a website using Hugo and host it using Netlify.
 
-A few days later i made a new site with a new theme after watching a really long video which detiled how to make a website using hugo and host it using netlify. 
+This time the errors were a lot less, and I almost finished adding content to my website. Then I learned how to host the website using GitHub Pages.
 
-This time the errors were a lot less, and i almost finished adding content to my webiste. Then i learnt how to host the website using github pages. 
+This time, the website which was made public didn't show the design of the theme. Guessing that it was the problem with the theme like the previous time, I made another website using a third theme, which was a little more popular.
 
-This time, the website which was made public didnt show the design of the theme. guessing that it was the problem with the theme like the previous time, i made another website using a third theme, which was a little more popular.
+But even this time, the design was not appearing, and only after getting help from a senior in amFOSS club was I able to know that I had to create a workflow file in order for the GitHub.io site to show the design.
 
-But even this time the design was not appearing, and only after geetting help from a senior in amFOSS club was a able to know that i had to create a workflow file inorder for the github.io site to show the design.
-
-after spending a lot of time, I finnaly got it working 😌
+After spending a lot of time, I finally got it working 😌.
 
 
 In just a few steps (but a lot of time due to my inexperience), I was able to create a stunning portfolio website using Hugo and host it on GitHub Pages. Hugo's simplicity and flexibility made the process enjoyable, and I was able to customize the website to reflect my creativity and style.
